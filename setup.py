@@ -1,5 +1,5 @@
 """
-latest version created: test_setupline in dumm_project2/
+latest version created: test_protect2 in dumm_project2/
 The setup file. To install as a developer (only do this in a venv):
 
 python setup.py develop
